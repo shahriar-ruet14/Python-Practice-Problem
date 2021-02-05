@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Practice Problem.iml" filepath="$PROJECT_DIR$/.idea/Practice Problem.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/Python-Practice-Problem/.idea/Python-Practice-Problem.iml" filepath="$USER_HOME$/Documents/GitHub/Python-Practice-Problem/.idea/Python-Practice-Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
     </modules>
   </component>
 </project>
