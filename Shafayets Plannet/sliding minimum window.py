@@ -4,4 +4,5 @@ def brute_rmq(arr,m):
 		subarr=arr[i:i+m] #take subarray of size m, starting from index i
 		res.append(min(subarr)) #append the minimum element in result
 	return res
+print("This is atest")
 
